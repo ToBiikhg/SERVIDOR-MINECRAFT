@@ -67,3 +67,27 @@ java.io.FileNotFoundException: whitelist.json (No such file or directory)
 [17:20:15] [User Authenticator #2/INFO]: Disconnecting /127.135.168.66:47575: Failed to verify username!
 [17:20:16] [Server thread/INFO]: /127.135.168.66:47575 lost connection: Failed to verify username!
 [17:24:28] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[17:31:22] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[17:35:53] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[17:36:36] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[17:36:45] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[17:36:50] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[17:36:55] [Server thread/INFO]: --- Showing help page 1 of 9 (/help <page>) ---
+[17:36:55] [Server thread/INFO]: /achievement <give|take> <stat_name|*> [player]
+[17:36:55] [Server thread/INFO]: /ban <name> [reason ...]
+[17:36:55] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[17:36:55] [Server thread/INFO]: /banlist [ips|players]
+[17:36:55] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
+[17:36:55] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
+[17:36:55] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[17:37:03] [User Authenticator #3/INFO]: Disconnecting /127.135.168.66:42283: Failed to verify username!
+[17:37:03] [Server thread/INFO]: /127.135.168.66:42283 lost connection: Failed to verify username!
+[17:37:07] [User Authenticator #4/INFO]: Disconnecting /127.135.168.66:47857: Failed to verify username!
+[17:37:07] [Server thread/INFO]: /127.135.168.66:47857 lost connection: Failed to verify username!
+[17:37:24] [Server thread/INFO]: Stopping the server
+[17:37:24] [Server thread/INFO]: Stopping server
+[17:37:24] [Server thread/INFO]: Saving players
+[17:37:24] [Server thread/INFO]: Saving worlds
+[17:37:24] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[17:37:24] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[17:37:24] [Server thread/INFO]: Saving chunks for level 'world'/The End
