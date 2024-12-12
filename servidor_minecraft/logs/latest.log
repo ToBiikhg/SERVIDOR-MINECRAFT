@@ -1,56 +1,18 @@
-[21:07:48] [Server thread/INFO]: Starting minecraft server version 1.8
-[21:07:50] [Server thread/INFO]: Loading properties
-[21:07:50] [Server thread/INFO]: Default game type: SURVIVAL
-[21:07:50] [Server thread/INFO]: Generating keypair
-[21:07:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:07:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:07:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:07:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:07:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:07:52] [Server thread/INFO]: Preparing level "torneo"
-[21:07:52] [Server thread/INFO]: Preparing start region for level 0
-[21:07:52] [Server thread/INFO]: Done (1.168s)! For help, type "help" or "?"
-[21:07:58] [Server thread/INFO]: Letrootas[/127.134.134.239:48095] logged in with entity id 0 at (-5.5, 4.0, -9.5)
-[21:07:58] [Server thread/INFO]: Letrootas joined the game
-[21:08:33] [Server thread/INFO]: ToBiik_[/127.135.168.66:35971] logged in with entity id 1 at (-4.6215075025223324, 16.962497935859233, 17.175321057178383)
-[21:08:33] [Server thread/INFO]: ToBiik_ joined the game
-[21:08:36] [Server thread/INFO]: <Letrootas> aggg
-[21:09:16] [Server thread/INFO]: <Letrootas> que ahces
-[21:09:20] [Server thread/INFO]: <Letrootas> Letrootas
-[21:09:24] [Server thread/INFO]: [ToBiik_: Opped Letrootas]
-[21:09:29] [Server thread/INFO]: [Letrootas: Set own game mode to Creative Mode]
-[21:11:31] [Server thread/INFO]: [Letrootas: Set own game mode to Spectator Mode]
-[21:11:33] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[21:12:13] [Server thread/INFO]: [Letrootas: Set own game mode to Creative Mode]
-[21:12:50] [Server thread/INFO]: [ToBiik_: Changing to clear weather]
-[21:12:59] [Server thread/INFO]: Letrootas has just earned the achievement [Taking Inventory]
-[21:12:59] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[21:13:32] [Server thread/INFO]: <Letrootas> spam
-[21:13:33] [Server thread/INFO]: <Letrootas> spawn
-[21:13:37] [Server thread/INFO]: Letrootas fell out of the world
-[21:13:37] [Server thread/INFO]: [Letrootas: Killed Letrootas]
-[21:22:22] [Server thread/INFO]: [ToBiik_: Set own game mode to Survival Mode]
-[21:22:29] [Server thread/INFO]: [Letrootas: Set own game mode to Survival Mode]
-[21:22:52] [Server thread/INFO]: Letrootas was slain by ToBiik_
-[21:23:00] [Server thread/INFO]: [ToBiik_: Set own game mode to Creative Mode]
-[21:23:07] [Server thread/INFO]: [Letrootas: Set own game mode to Creative Mode]
-[21:23:13] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[21:27:47] [Server thread/INFO]: [ToBiik_: Changing to clear weather]
-[21:27:50] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[21:31:02] [Server thread/INFO]: [ToBiik_: Given [Command Block] * 1 to ToBiik_]
-[21:37:08] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[21:39:02] [Server thread/INFO]: [ToBiik_: Set own game mode to Survival Mode]
-[21:39:19] [Server thread/INFO]: [Letrootas: Set own game mode to Survival Mode]
-[21:40:32] [Server thread/INFO]: [ToBiik_: Changing to clear weather]
-[21:40:34] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[21:40:39] [Server thread/INFO]: [ToBiik_: Set own game mode to Creative Mode]
-[21:40:54] [Server thread/INFO]: [Letrootas: Set own game mode to Creative Mode]
-[21:41:46] [Server thread/INFO]: <Letrootas> a
-[21:46:18] [Server thread/INFO]: <Letrootas> qfue
-[21:50:47] [Server thread/INFO]: Stopping the server
-[21:50:47] [Server thread/INFO]: Stopping server
-[21:50:47] [Server thread/INFO]: Saving players
-[21:50:47] [Server thread/INFO]: Saving worlds
-[21:50:47] [Server thread/INFO]: Saving chunks for level 'torneo'/Overworld
-[21:50:47] [Server thread/INFO]: Saving chunks for level 'torneo'/Nether
-[21:50:47] [Server thread/INFO]: Saving chunks for level 'torneo'/The End
+[23:41:13] [Server thread/INFO]: Starting minecraft server version 1.8
+[23:41:15] [Server thread/INFO]: Loading properties
+[23:41:15] [Server thread/INFO]: Default game type: SURVIVAL
+[23:41:15] [Server thread/INFO]: Generating keypair
+[23:41:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:41:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:41:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:41:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:41:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:41:16] [Server thread/INFO]: Preparing level "torneo"
+[23:41:17] [Server thread/INFO]: Preparing start region for level 0
+[23:41:17] [Server thread/INFO]: Done (1.090s)! For help, type "help" or "?"
+[23:41:54] [Server thread/INFO]: ToBiik_[/127.135.168.66:39467] logged in with entity id 0 at (20.56431295893576, 29.010371842093267, 1.935586301190708)
+[23:41:54] [Server thread/INFO]: ToBiik_ joined the game
+[23:43:08] [Server thread/INFO]: [ToBiik_: Game rule has been updated]
+[23:44:30] [Server thread/INFO]: [ToBiik_: Changing to clear weather]
+[23:44:45] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
+[23:44:48] [Server thread/INFO]: [ToBiik_: Game rule has been updated]
