@@ -1,0 +1,69 @@
+[17:17:29] [Server thread/INFO]: Starting minecraft server version 1.8.9
+[17:17:29] [Server thread/INFO]: Loading properties
+[17:17:29] [Server thread/INFO]: Default game type: SURVIVAL
+[17:17:29] [Server thread/INFO]: Generating keypair
+[17:17:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:17:29] [Server thread/INFO]: Using epoll channel type
+[17:17:29] [Server thread/WARN]: Failed to load user banlist: 
+java.io.FileNotFoundException: banned-players.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_432]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_432]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_432]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[vanilla.jar:?]
+	at mb.g(SourceFile:124) ~[vanilla.jar:?]
+	at kn.z(SourceFile:99) [vanilla.jar:?]
+	at kn.<init>(SourceFile:25) [vanilla.jar:?]
+	at ko.i(SourceFile:172) [vanilla.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:421) [vanilla.jar:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[17:17:29] [Server thread/WARN]: Failed to load ip banlist: 
+java.io.FileNotFoundException: banned-ips.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_432]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_432]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_432]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[vanilla.jar:?]
+	at mb.g(SourceFile:124) ~[vanilla.jar:?]
+	at kn.y(SourceFile:91) [vanilla.jar:?]
+	at kn.<init>(SourceFile:27) [vanilla.jar:?]
+	at ko.i(SourceFile:172) [vanilla.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:421) [vanilla.jar:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[17:17:29] [Server thread/WARN]: Failed to load operators list: 
+java.io.FileNotFoundException: ops.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_432]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_432]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_432]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[vanilla.jar:?]
+	at mb.g(SourceFile:124) ~[vanilla.jar:?]
+	at kn.A(SourceFile:107) [vanilla.jar:?]
+	at kn.<init>(SourceFile:29) [vanilla.jar:?]
+	at ko.i(SourceFile:172) [vanilla.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:421) [vanilla.jar:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[17:17:29] [Server thread/WARN]: Failed to load white-list: 
+java.io.FileNotFoundException: whitelist.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_432]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_432]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_432]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[vanilla.jar:?]
+	at mb.g(SourceFile:124) ~[vanilla.jar:?]
+	at kn.C(SourceFile:123) [vanilla.jar:?]
+	at kn.<init>(SourceFile:30) [vanilla.jar:?]
+	at ko.i(SourceFile:172) [vanilla.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:421) [vanilla.jar:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[17:17:30] [Server thread/INFO]: Preparing level "world"
+[17:17:30] [Server thread/INFO]: Preparing start region for level 0
+[17:17:31] [Server thread/INFO]: Preparing spawn area: 4%
+[17:17:32] [Server thread/INFO]: Preparing spawn area: 14%
+[17:17:33] [Server thread/INFO]: Preparing spawn area: 25%
+[17:17:34] [Server thread/INFO]: Preparing spawn area: 40%
+[17:17:35] [Server thread/INFO]: Preparing spawn area: 56%
+[17:17:36] [Server thread/INFO]: Preparing spawn area: 71%
+[17:17:37] [Server thread/INFO]: Preparing spawn area: 91%
+[17:17:37] [Server thread/INFO]: Done (7.912s)! For help, type "help" or "?"
+[17:20:11] [User Authenticator #1/INFO]: Disconnecting /127.135.168.66:42099: Failed to verify username!
+[17:20:11] [Server thread/INFO]: /127.135.168.66:42099 lost connection: Failed to verify username!
+[17:20:15] [User Authenticator #2/INFO]: Disconnecting /127.135.168.66:47575: Failed to verify username!
+[17:20:16] [Server thread/INFO]: /127.135.168.66:47575 lost connection: Failed to verify username!
+[17:24:28] [Server thread/INFO]: Unknown command. Try /help for a list of commands
