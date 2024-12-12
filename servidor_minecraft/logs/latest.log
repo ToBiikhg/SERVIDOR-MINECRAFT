@@ -1,72 +1,31 @@
-[18:08:42] [Server thread/INFO]: Starting minecraft server version 1.8
-[18:08:44] [Server thread/INFO]: Loading properties
-[18:08:44] [Server thread/INFO]: Default game type: SURVIVAL
-[18:08:44] [Server thread/INFO]: Generating keypair
-[18:08:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:08:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:08:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:08:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:08:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:08:45] [Server thread/INFO]: Preparing level "torneo"
-[18:08:45] [Server thread/INFO]: Preparing start region for level 0
-[18:08:46] [Server thread/INFO]: Done (1.388s)! For help, type "help" or "?"
-[18:09:20] [Server thread/INFO]: ToBiik_[/127.135.168.66:36217] logged in with entity id 0 at (6.627959372403661, 4.989852028038893, -16.55329724693123)
-[18:09:20] [Server thread/INFO]: ToBiik_ joined the game
-[18:11:10] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[18:20:41] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[18:29:56] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[18:39:36] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[18:56:49] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[19:06:25] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[19:07:16] [Server thread/INFO]: [ToBiik_: Changing to clear weather]
-[19:12:56] [Server thread/INFO]: ToBiik_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:12:56] [Server thread/INFO]: ToBiik_ left the game
-[19:13:15] [Server thread/INFO]: ToBiik_[/127.135.168.66:39299] logged in with entity id 478 at (1.4467014004229495, 6.154731793074618, 6.483946658142647)
-[19:13:15] [Server thread/INFO]: ToBiik_ joined the game
-[19:14:57] [Server thread/INFO]: [ToBiik_: Game rule has been updated]
-[19:15:38] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[19:16:50] [Server thread/INFO]: [ToBiik_: Set own game mode to Spectator Mode]
-[19:17:00] [Server thread/INFO]: [ToBiik_: Set own game mode to Creative Mode]
-[19:17:32] [Server thread/INFO]: ToBiik_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:17:32] [Server thread/INFO]: ToBiik_ left the game
-[19:19:00] [Server thread/INFO]: ToBiik_[/127.135.168.66:54941] logged in with entity id 479 at (-5.6635141534341775, 4.588546375989182, 7.2540061267651925)
-[19:19:00] [Server thread/INFO]: ToBiik_ joined the game
-[19:19:56] [Server thread/INFO]: ToBiik_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:19:56] [Server thread/INFO]: ToBiik_ left the game
-[19:20:18] [Server thread/INFO]: ToBiik_[/127.135.168.66:59533] logged in with entity id 480 at (3.9270516374236726, 5.0375909806457395, 10.745573022085086)
-[19:20:18] [Server thread/INFO]: ToBiik_ joined the game
-[19:20:28] [Server thread/INFO]: <ToBiik_> q
-[19:21:19] [Server thread/INFO]: Fer1502[/127.43.178.235:60795] logged in with entity id 481 at (-7.5, 4.0, -7.5)
-[19:21:19] [Server thread/INFO]: Fer1502 joined the game
-[19:22:47] [Server thread/INFO]: Fer1502 has just earned the achievement [Taking Inventory]
-[19:22:54] [Server thread/INFO]: [ToBiik_: Changing to clear weather]
-[19:22:58] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[19:22:59] [Server thread/INFO]: <Fer1502> KK
-[19:23:46] [Server thread/INFO]: <ToBiik_> .//wand
-[19:24:16] [Server thread/INFO]: [ToBiik_: Opped Fer1502]
-[19:25:14] [Server thread/INFO]: <ToBiik_> ./gamemode 1
-[19:25:50] [Server thread/INFO]: [Fer1502: Set own game mode to Creative Mode]
-[19:27:38] [Server thread/INFO]: [ToBiik_: Teleported ToBiik_ to Fer1502]
-[19:29:02] [Server thread/INFO]: [ToBiik_: Set Fer1502's game mode to Survival Mode]
-[19:29:14] [Server thread/INFO]: [ToBiik_: Set Fer1502's game mode to Creative Mode]
-[19:29:29] [Server thread/INFO]: [ToBiik_: Changing to clear weather]
-[19:29:33] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[19:30:36] [Server thread/INFO]: Fer1502 fell out of the world
-[19:30:36] [Server thread/INFO]: [ToBiik_: Killed Fer1502]
-[19:36:38] [Server thread/INFO]: [ToBiik_: Changing to clear weather]
-[19:36:46] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[19:37:40] [Server thread/INFO]: <Fer1502> gg
-[19:46:25] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[19:48:34] [Server thread/INFO]: [ToBiik_: Changing to clear weather]
-[19:48:37] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[19:54:54] [Server thread/INFO]: Fer1502 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:54:54] [Server thread/INFO]: Fer1502 left the game
-[19:55:07] [Server thread/INFO]: ToBiik_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:55:07] [Server thread/INFO]: ToBiik_ left the game
-[19:55:18] [Server thread/INFO]: Stopping the server
-[19:55:18] [Server thread/INFO]: Stopping server
-[19:55:18] [Server thread/INFO]: Saving players
-[19:55:18] [Server thread/INFO]: Saving worlds
-[19:55:18] [Server thread/INFO]: Saving chunks for level 'torneo'/Overworld
-[19:55:18] [Server thread/INFO]: Saving chunks for level 'torneo'/Nether
-[19:55:18] [Server thread/INFO]: Saving chunks for level 'torneo'/The End
+[21:07:48] [Server thread/INFO]: Starting minecraft server version 1.8
+[21:07:50] [Server thread/INFO]: Loading properties
+[21:07:50] [Server thread/INFO]: Default game type: SURVIVAL
+[21:07:50] [Server thread/INFO]: Generating keypair
+[21:07:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:07:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:07:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:07:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:07:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:07:52] [Server thread/INFO]: Preparing level "torneo"
+[21:07:52] [Server thread/INFO]: Preparing start region for level 0
+[21:07:52] [Server thread/INFO]: Done (1.168s)! For help, type "help" or "?"
+[21:07:58] [Server thread/INFO]: Letrootas[/127.134.134.239:48095] logged in with entity id 0 at (-5.5, 4.0, -9.5)
+[21:07:58] [Server thread/INFO]: Letrootas joined the game
+[21:08:33] [Server thread/INFO]: ToBiik_[/127.135.168.66:35971] logged in with entity id 1 at (-4.6215075025223324, 16.962497935859233, 17.175321057178383)
+[21:08:33] [Server thread/INFO]: ToBiik_ joined the game
+[21:08:36] [Server thread/INFO]: <Letrootas> aggg
+[21:09:16] [Server thread/INFO]: <Letrootas> que ahces
+[21:09:20] [Server thread/INFO]: <Letrootas> Letrootas
+[21:09:24] [Server thread/INFO]: [ToBiik_: Opped Letrootas]
+[21:09:29] [Server thread/INFO]: [Letrootas: Set own game mode to Creative Mode]
+[21:11:31] [Server thread/INFO]: [Letrootas: Set own game mode to Spectator Mode]
+[21:11:33] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
+[21:12:13] [Server thread/INFO]: [Letrootas: Set own game mode to Creative Mode]
+[21:12:50] [Server thread/INFO]: [ToBiik_: Changing to clear weather]
+[21:12:59] [Server thread/INFO]: Letrootas has just earned the achievement [Taking Inventory]
+[21:12:59] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
+[21:13:32] [Server thread/INFO]: <Letrootas> spam
+[21:13:33] [Server thread/INFO]: <Letrootas> spawn
+[21:13:37] [Server thread/INFO]: Letrootas fell out of the world
+[21:13:37] [Server thread/INFO]: [Letrootas: Killed Letrootas]
