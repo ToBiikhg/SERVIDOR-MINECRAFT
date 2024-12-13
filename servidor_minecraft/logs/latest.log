@@ -1,36 +1,27 @@
-[00:05:15] [Server thread/INFO]: [ToBiik_: Changing to clear weather]
-[00:05:18] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[00:13:05] [Server thread/INFO]: [ToBiik_: Changing to clear weather]
-[00:13:08] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[00:15:20] [Server thread/INFO]: [ToBiik_: Set own game mode to Survival Mode]
-[00:15:33] [Server thread/INFO]: [ToBiik_: Set own game mode to Creative Mode]
-[00:18:19] [Server thread/INFO]: ToBiik_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:18:19] [Server thread/INFO]: ToBiik_ left the game
-[00:18:29] [Server thread/INFO]: ToBiik_[/127.135.168.66:34931] logged in with entity id 8 at (20.08344416078874, 8.758212327277171, -2.3844328107691095)
-[00:18:29] [Server thread/INFO]: ToBiik_ joined the game
-[00:19:07] [Server thread/INFO]: ToBiik__[/127.135.168.66:37809] logged in with entity id 9 at (-8.5, 4.0, -5.5)
-[00:19:07] [Server thread/INFO]: ToBiik__ joined the game
-[00:20:25] [Server thread/INFO]: [ToBiik_: Set own game mode to Adventure Mode]
-[00:20:25] [Server thread/INFO]: [ToBiik_: Set ToBiik__'s game mode to Adventure Mode]
-[00:20:43] [Server thread/INFO]: [ToBiik_: Set own game mode to Survival Mode]
-[00:20:47] [Server thread/INFO]: [ToBiik_: Set own game mode to Creative Mode]
-[00:21:41] [Server thread/INFO]: ToBiik__ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:21:41] [Server thread/INFO]: ToBiik__ left the game
-[00:21:57] [Server thread/INFO]: [ToBiik_: The world's default game mode is now Adventure Mode]
-[00:22:27] [Server thread/INFO]: ToBiik___[/127.135.168.66:38345] logged in with entity id 13 at (0.5, 24.0, 0.5)
-[00:22:27] [Server thread/INFO]: ToBiik___ joined the game
-[00:23:58] [Server thread/INFO]: [ToBiik_: Set the world spawn point to (0, 4, 0)]
-[00:24:09] [Server thread/INFO]: ToBiik___ was slain by ToBiik_
-[00:24:46] [Server thread/INFO]: [ToBiik_: Changing to clear weather]
-[00:24:49] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[00:25:07] [Server thread/INFO]: ToBiik___ was slain by ToBiik_
-[00:25:19] [Server thread/INFO]: ToBiik___ was slain by ToBiik_
-[00:25:56] [Server thread/INFO]: [ToBiik_: Teleported ToBiik_ to ToBiik_]
-[00:25:56] [Server thread/INFO]: [ToBiik_: Teleported ToBiik_ to ToBiik___]
-[00:26:10] [Server thread/INFO]: [ToBiik_: Teleported ToBiik_ to ToBiik_]
-[00:26:10] [Server thread/INFO]: [ToBiik_: Teleported ToBiik_ to ToBiik___]
-[00:27:24] [Server thread/INFO]: [ToBiik_: Teleported ToBiik_ to ToBiik_]
-[00:27:24] [Server thread/INFO]: [ToBiik_: Teleported ToBiik___ to ToBiik_]
-[00:27:26] [Server thread/INFO]: ToBiik___ fell from a high place
-[00:27:35] [Server thread/INFO]: ToBiik___ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:27:35] [Server thread/INFO]: ToBiik___ left the game
+[00:42:59] [Server thread/INFO]: Starting minecraft server version 1.8
+[00:43:01] [Server thread/INFO]: Loading properties
+[00:43:01] [Server thread/INFO]: Default game type: SURVIVAL
+[00:43:01] [Server thread/INFO]: Generating keypair
+[00:43:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:43:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:43:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:43:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:43:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:43:02] [Server thread/INFO]: Preparing level "torneo"
+[00:43:02] [Server thread/INFO]: Preparing start region for level 0
+[00:43:02] [Server thread/INFO]: Done (1.008s)! For help, type "help" or "?"
+[00:43:12] [Server thread/INFO]: ToBiik_[/127.135.168.66:51931] logged in with entity id 0 at (2.2038706458728727, 5.0, 0.5085807788231145)
+[00:43:12] [Server thread/INFO]: ToBiik_ joined the game
+[00:43:24] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
+[00:43:29] [Server thread/INFO]: [ToBiik_: Changing to clear weather]
+[00:43:48] [Server thread/INFO]: [ToBiik_: Game rule has been updated]
+[00:44:10] [Server thread/INFO]: [ToBiik_: Game rule has been updated]
+[00:44:22] [Server thread/INFO]: [ToBiik_: Game rule has been updated]
+[00:48:29] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[00:48:33] [Server thread/INFO]: Stopping the server
+[00:48:33] [Server thread/INFO]: Stopping server
+[00:48:33] [Server thread/INFO]: Saving players
+[00:48:33] [Server thread/INFO]: Saving worlds
+[00:48:33] [Server thread/INFO]: Saving chunks for level 'torneo'/Overworld
+[00:48:33] [Server thread/INFO]: Saving chunks for level 'torneo'/Nether
+[00:48:33] [Server thread/INFO]: Saving chunks for level 'torneo'/The End
