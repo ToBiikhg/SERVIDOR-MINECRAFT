@@ -1,20 +1,360 @@
-[02:30:02] [Server thread/INFO]: Starting minecraft server version 1.8
-[02:30:03] [Server thread/INFO]: Loading properties
-[02:30:03] [Server thread/INFO]: Default game type: SURVIVAL
-[02:30:03] [Server thread/INFO]: Generating keypair
-[02:30:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:30:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:30:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:30:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:30:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:30:04] [Server thread/INFO]: Preparing level "torneo"
-[02:30:04] [Server thread/INFO]: Preparing start region for level 0
-[02:30:05] [Server thread/INFO]: Done (1.015s)! For help, type "help" or "?"
-[02:30:26] [Server thread/INFO]: ToBiik_[/127.135.168.66:38927] logged in with entity id 0 at (0.30000001192091974, 1.0, 0.6999999880790725)
-[02:30:26] [Server thread/INFO]: ToBiik_ joined the game
-[02:31:33] [Server thread/INFO]: Stopping server
-[02:31:33] [Server thread/INFO]: Saving players
-[02:31:33] [Server thread/INFO]: Saving worlds
-[02:31:33] [Server thread/INFO]: Saving chunks for level 'torneo'/Overworld
-[02:31:33] [Server thread/INFO]: Saving chunks for level 'torneo'/Nether
-[02:31:33] [Server thread/INFO]: Saving chunks for level 'torneo'/The End
+[02:36:11] [Server thread/INFO]: Starting minecraft server version 1.8
+[02:36:13] [Server thread/INFO]: Loading properties
+[02:36:13] [Server thread/INFO]: Default game type: SURVIVAL
+[02:36:13] [Server thread/INFO]: Generating keypair
+[02:36:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:36:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:36:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:36:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:36:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:36:14] [Server thread/INFO]: Preparing level "torneo"
+[02:36:14] [Server thread/INFO]: Preparing start region for level 0
+[02:36:14] [Server thread/INFO]: Done (0.966s)! For help, type "help" or "?"
+[02:38:30] [Server thread/INFO]: xdcannon[/127.241.166.232:38537] logged in with entity id 0 at (3.2832076915725374, 1.0, -1.7144184841623356)
+[02:38:30] [Server thread/INFO]: xdcannon joined the game
+[02:38:35] [Server thread/INFO]: xdcannon fell out of the world
+[02:42:59] [Server thread/INFO]: ToBiik_[/127.135.168.66:45743] logged in with entity id 9 at (-6.316174669781647, 4.0, -0.9749770023143198)
+[02:42:59] [Server thread/INFO]: ToBiik_ joined the game
+[02:43:08] [Server thread/INFO]: <ToBiik_> mano
+[02:43:10] [Server thread/INFO]: <ToBiik_> estas?
+[02:43:47] [Server thread/INFO]: <xdcannon> a que onda
+[02:43:50] [Server thread/INFO]: <xdcannon> xD
+[02:43:50] [Server thread/INFO]: <ToBiik_> mano
+[02:43:55] [Server thread/INFO]: <ToBiik_> tenemos q hacer niveles
+[02:43:58] [Server thread/INFO]: <xdcannon> ya activaste los bloques de comandos??
+[02:43:59] [Server thread/INFO]: <xdcannon> ya activaste los bloques de comandos??
+[02:43:59] [Server thread/INFO]: <xdcannon> ya activaste los bloques de comandos??
+[02:43:59] [Server thread/INFO]: <xdcannon> ya activaste los bloques de comandos??
+[02:44:00] [Server thread/INFO]: <xdcannon> ya activaste los bloques de comandos??
+[02:44:02] [Server thread/INFO]: <ToBiik_> si
+[02:44:08] [Server thread/INFO]: <xdcannon> para quiero ver si puedo hacer una cosa
+[02:44:15] [Server thread/INFO]: <ToBiik_> comandos ya no mano
+[02:44:24] [Server thread/INFO]: <ToBiik_> mejor plugins
+[02:44:25] [Server thread/INFO]: <xdcannon> paraaaa
+[02:46:37] [Server thread/INFO]: <xdcannon> oe
+[02:46:38] [Server thread/INFO]: <xdcannon> ya
+[02:46:40] [Server thread/INFO]: <ToBiik_> di
+[02:46:48] [Server thread/INFO]: <xdcannon> mete el /skin si o que
+[02:46:53] [Server thread/INFO]: <ToBiik_> para?
+[02:46:54] [Server thread/INFO]: <xdcannon> no quiero ser steve
+[02:46:55] [Server thread/INFO]: <ToBiik_> no mano
+[02:46:56] [Server thread/INFO]: <xdcannon> no quiero ser steve
+[02:46:56] [Server thread/INFO]: <xdcannon> no quiero ser steve
+[02:46:57] [Server thread/INFO]: <xdcannon> xD
+[02:47:12] [Server thread/INFO]: <xdcannon> pero confirma
+[02:47:15] [Server thread/INFO]: <ToBiik_> ya mira
+[02:47:23] [Server thread/INFO]: <ToBiik_> ven
+[02:47:43] [Server thread/INFO]: <ToBiik_> haste tp
+[02:48:05] [Server thread/INFO]: <xdcannon> no c hacerlo xD
+[02:48:06] [Server thread/INFO]: <xdcannon> no c hacerlo xD
+[02:48:06] [Server thread/INFO]: <xdcannon> no c hacerlo xD
+[02:48:06] [Server thread/INFO]: <xdcannon> no c hacerlo xD
+[02:48:20] [Server thread/INFO]: <xdcannon> donde estas wbon
+[02:48:34] [Server thread/INFO]: <ToBiik_> aqui en este cubo es un nivel
+[02:48:40] [Server thread/INFO]: <xdcannon> ya
+[02:48:48] [Server thread/INFO]: <ToBiik_> quiero que los jugadores spawneen aqui
+[02:49:04] [Server thread/INFO]: <xdcannon> en todo esto?
+[02:49:08] [Server thread/INFO]: <ToBiik_> sip
+[02:49:45] [Server thread/INFO]: <ToBiik_> tiene 25
+[02:49:51] [Server thread/INFO]: <xdcannon> 23?
+[02:49:52] [Server thread/INFO]: <xdcannon> 23?
+[02:49:52] [Server thread/INFO]: <xdcannon> 23?
+[02:49:52] [Server thread/INFO]: <xdcannon> 23?
+[02:49:59] [Server thread/INFO]: <ToBiik_> uno spawnea aqui
+[02:50:01] [Server thread/INFO]: <xdcannon> y la mitad?
+[02:50:08] [Server thread/INFO]: <ToBiik_> aqui es el centro mira
+[02:50:27] [Server thread/INFO]: <ToBiik_> esto es el centro
+[02:50:33] [Server thread/INFO]: <xdcannon> joder me da algo si esta asi
+[02:50:40] [Server thread/INFO]: <ToBiik_> x2
+[02:50:44] [Server thread/INFO]: <ToBiik_> deja
+[02:51:00] [Server thread/INFO]: <ToBiik_> deja
+[02:51:13] [Server thread/INFO]: <xdcannon> para hay que hacerlo cimetrico
+[02:51:14] [Server thread/INFO]: <xdcannon> para hay que hacerlo cimetrico
+[02:51:46] [Server thread/INFO]: <xdcannon> pero entonces solo seria cambiar el punto de spawm
+[02:51:48] [Server thread/INFO]: <xdcannon> pero entonces solo seria cambiar el punto de spawm
+[02:51:49] [Server thread/INFO]: <xdcannon> pero entonces solo seria cambiar el punto de spawm
+[02:51:51] [Server thread/INFO]: <ToBiik_> sip
+[02:52:02] [Server thread/INFO]: <ToBiik_> aqui
+[02:52:05] [Server thread/INFO]: <xdcannon> no me acuerdo el comando
+[02:53:12] [Server thread/INFO]: <xdcannon> lo pones o lo pongo??
+[02:53:12] [Server thread/INFO]: <xdcannon> lo pones o lo pongo??
+[02:53:13] [Server thread/INFO]: <xdcannon> lo pones o lo pongo??
+[02:53:13] [Server thread/INFO]: <xdcannon> lo pones o lo pongo??
+[02:53:16] [Server thread/INFO]: <ToBiik_> ya lo puse creo
+[02:53:23] [Server thread/INFO]: xdcannon fell out of the world
+[02:53:27] [Server thread/INFO]: <xdcannon> se
+[02:53:27] [Server thread/INFO]: <ToBiik_> epaaa
+[02:53:31] [Server thread/INFO]: ToBiik_ fell out of the world
+[02:53:38] [Server thread/INFO]: <ToBiik_> ._.
+[02:53:39] [Server thread/INFO]: <xdcannon> xD
+[02:53:44] [Server thread/INFO]: xdcannon fell out of the world
+[02:53:53] [Server thread/INFO]: <xdcannon> a mi si me dunca
+[02:53:55] [Server thread/INFO]: <ToBiik_> pero eso solo es para TU punto de respaw
+[02:53:57] [Server thread/INFO]: <xdcannon> digo funca
+[02:53:58] [Server thread/INFO]: ToBiik_ fell out of the world
+[02:54:07] [Server thread/INFO]: <xdcannon> pero yo no lo puse
+[02:54:13] [Server thread/INFO]: <xdcannon> tu lo pisiste
+[02:54:13] [Server thread/INFO]: <xdcannon> tu lo pisiste
+[02:54:14] [Server thread/INFO]: <xdcannon> tu lo pisiste
+[02:54:16] [Server thread/INFO]: ToBiik_ fell out of the world
+[02:54:18] [Server thread/INFO]: <xdcannon> pusiste
+[02:54:38] [Server thread/INFO]: <ToBiik_> matame
+[02:54:54] [Server thread/INFO]: <xdcannon> 37 4 -35
+[02:55:00] [Server thread/INFO]: ToBiik_ was slain by xdcannon
+[02:55:06] [Server thread/INFO]: <ToBiik_> ptmr
+[02:55:11] [Server thread/INFO]: <ToBiik_> mira arriba
+[02:55:20] [Server thread/INFO]: ToBiik_ fell out of the world
+[02:55:25] [Server thread/INFO]: ToBiik_ fell out of the world
+[02:55:30] [Server thread/INFO]: ToBiik_ fell out of the world
+[02:57:09] [Server thread/INFO]: ToBiik_ fell out of the world
+[02:57:13] [Server thread/INFO]: <ToBiik_> nop
+[02:57:25] [Server thread/INFO]: <xdcannon> no funca wtf
+[02:58:26] [Server thread/INFO]: ToBiik_ fell out of the world
+[02:58:34] [Server thread/INFO]: <ToBiik_> mano
+[02:58:39] [Server thread/INFO]: <xdcannon> eu
+[02:58:40] [Server thread/INFO]: <ToBiik_> antes si se podia
+[02:58:45] [Server thread/INFO]: <ToBiik_> no se q pasó
+[02:58:49] [Server thread/INFO]: xdcannon fell out of the world
+[02:58:59] [Server thread/INFO]: <xdcannon> oe pero a mi si me spawnea aca
+[02:59:06] [Server thread/INFO]: <ToBiik_> q comando usaste?
+[02:59:12] [Server thread/INFO]: <xdcannon> ninguno loco
+[02:59:16] [Server thread/INFO]: <xdcannon> es el que tu pusiste
+[02:59:21] [Server thread/INFO]: <ToBiik_> ./setworldspawn
+[02:59:22] [Server thread/INFO]: <ToBiik_> ?
+[02:59:28] [Server thread/INFO]: <xdcannon> si creo
+[02:59:35] [Server thread/INFO]: <ToBiik_> colocalo
+[02:59:36] [Server thread/INFO]: <ToBiik_> x siaca
+[02:59:42] [Server thread/INFO]: <xdcannon> aver pone ese/setworldspawn 37 4 -45
+[02:59:46] [Server thread/INFO]: <xdcannon> aver pone ese/setworldspawn 37 4 -45
+[02:59:46] [Server thread/INFO]: <xdcannon> aver pone ese/setworldspawn 37 4 -45
+[02:59:47] [Server thread/INFO]: <xdcannon> aver pone ese/setworldspawn 37 4 -45
+[02:59:47] [Server thread/INFO]: <xdcannon> aver pone ese/setworldspawn 37 4 -45
+[03:00:08] [Server thread/INFO]: xdcannon fell out of the world
+[03:00:18] [Server thread/INFO]: ToBiik_ fell out of the world
+[03:00:27] [Server thread/INFO]: <xdcannon> que paso?
+[03:00:32] [Server thread/INFO]: ToBiik_ fell out of the world
+[03:00:34] [Server thread/INFO]: <xdcannon> te spawneo alla?
+[03:00:37] [Server thread/INFO]: <ToBiik_> q
+[03:00:38] [Server thread/INFO]: <xdcannon> xD
+[03:00:46] [Server thread/INFO]: <xdcannon> que tiro loco
+[03:00:52] [Server thread/INFO]: <xdcannon> aver entra con otra cuenta
+[03:00:53] [Server thread/INFO]: <xdcannon> aver entra con otra cuenta
+[03:00:53] [Server thread/INFO]: <xdcannon> aver entra con otra cuenta
+[03:00:54] [Server thread/INFO]: <xdcannon> aver entra con otra cuenta
+[03:00:54] [Server thread/INFO]: <xdcannon> aver entra con otra cuenta
+[03:00:55] [Server thread/INFO]: <xdcannon> aver entra con otra cuenta
+[03:00:55] [Server thread/INFO]: <xdcannon> aver entra con otra cuenta
+[03:00:57] [Server thread/INFO]: <xdcannon> aver entra con otra cuenta
+[03:00:58] [Server thread/INFO]: <xdcannon> aver entra con otra cuenta
+[03:00:58] [Server thread/INFO]: <xdcannon> aver entra con otra cuenta
+[03:01:01] [Server thread/INFO]: <ToBiik_> dale
+[03:01:04] [Server thread/INFO]: ToBiik_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:01:04] [Server thread/INFO]: ToBiik_ left the game
+[03:01:05] [Server thread/INFO]: <xdcannon> pero vuela
+[03:01:35] [Server thread/INFO]: ToBiik_00[/127.135.168.66:34007] logged in with entity id 45 at (32.5, 4.0, -48.5)
+[03:01:35] [Server thread/INFO]: ToBiik_00 joined the game
+[03:01:41] [Server thread/INFO]: <ToBiik_00> entre
+[03:01:49] [Server thread/INFO]: <ToBiik_00> y literal puedo romper todo
+[03:02:22] [Server thread/INFO]: ToBiik_00 fell out of the world
+[03:02:26] [Server thread/INFO]: <ToBiik_00> nada
+[03:02:29] [Server thread/INFO]: ToBiik_00 has just earned the achievement [Taking Inventory]
+[03:02:49] [Server thread/INFO]: <xdcannon> sirvio??
+[03:02:49] [Server thread/INFO]: <xdcannon> sirvio??
+[03:02:52] [Server thread/INFO]: <ToBiik_00> nada
+[03:03:08] [Server thread/INFO]: <xdcannon> wtf pero loco a mi si me funciona que tiro
+[03:03:17] [Server thread/INFO]: xdcannon fell out of the world
+[03:03:25] [Server thread/INFO]: <ToBiik_00> a mrd
+[03:03:27] [Server thread/INFO]: <xdcannon> ves
+[03:03:27] [Server thread/INFO]: <ToBiik_00> si
+[03:03:35] [Server thread/INFO]: ToBiik_00 fell out of the world
+[03:03:35] [Server thread/INFO]: xdcannon fell out of the world
+[03:03:43] [Server thread/INFO]: <ToBiik_00> q
+[03:03:44] [Server thread/INFO]: <ToBiik_00> xd
+[03:03:47] [Server thread/INFO]: <xdcannon> wtf
+[03:03:57] [Server thread/INFO]: <xdcannon> loco
+[03:04:10] [Server thread/INFO]: <xdcannon> pero abra algun comando para ver las cordenadas del spawn
+[03:04:28] [Server thread/INFO]: ToBiik_00 fell out of the world
+[03:04:35] [Server thread/INFO]: ToBiik_00 fell out of the world
+[03:04:35] [Server thread/INFO]: xdcannon fell out of the world
+[03:04:51] [Server thread/INFO]: <ToBiik_00> si me deja
+[03:04:55] [Server thread/INFO]: <ToBiik_00> pero no es para todo el servidor
+[03:05:00] [Server thread/INFO]: <ToBiik_00> solo es mi spawn personal
+[03:05:12] [Server thread/INFO]: <xdcannon> y yo porque spawneo aca?
+[03:05:46] [Server thread/INFO]: ToBiik_00 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:05:46] [Server thread/INFO]: ToBiik_00 left the game
+[03:06:05] [Server thread/INFO]: ToBiik_[/127.135.168.66:50535] logged in with entity id 54 at (37.46503461998304, 4.0, -45.622471857073506)
+[03:06:05] [Server thread/INFO]: ToBiik_ joined the game
+[03:06:09] [Server thread/INFO]: ToBiik_ fell out of the world
+[03:06:40] [Server thread/INFO]: xdcannon fell out of the world
+[03:06:44] [Server thread/INFO]: <xdcannon> xD
+[03:06:48] [Server thread/INFO]: <xdcannon> wtf loco
+[03:07:01] [Server thread/INFO]: ToBiik_ fell out of the world
+[03:07:06] [Server thread/INFO]: <xdcannon> pero solo es para nosotros dos
+[03:07:10] [Server thread/INFO]: <xdcannon> pero solo es para nosotros dos
+[03:07:12] [Server thread/INFO]: <xdcannon> pero solo es para nosotros dos
+[03:07:16] [Server thread/INFO]: <ToBiik_> si ps
+[03:07:25] [Server thread/INFO]: <ToBiik_> deja entro con otra cuenta ramdom q nunca entro
+[03:07:28] [Server thread/INFO]: <xdcannon> joder pero lo necesitamos para todos
+[03:07:29] [Server thread/INFO]: <xdcannon> joder pero lo necesitamos para todos
+[03:07:30] [Server thread/INFO]: <xdcannon> joder pero lo necesitamos para todos
+[03:07:54] [Server thread/INFO]: ToBiik_______[/127.135.168.66:59307] logged in with entity id 60 at (32.5, 4.0, -48.5)
+[03:07:54] [Server thread/INFO]: ToBiik_______ joined the game
+[03:08:09] [Server thread/INFO]: <ToBiik_> mira donde spawneo
+[03:08:18] [Server thread/INFO]: <xdcannon> a sisi
+[03:08:35] [Server thread/INFO]: <xdcannon> el comando que te mande creo que las cordenas estan incorredctas
+[03:08:35] [Server thread/INFO]: <xdcannon> el comando que te mande creo que las cordenas estan incorredctas
+[03:08:36] [Server thread/INFO]: <xdcannon> el comando que te mande creo que las cordenas estan incorredctas
+[03:08:38] [Server thread/INFO]: <xdcannon> el comando que te mande creo que las cordenas estan incorredctas
+[03:08:39] [Server thread/INFO]: <xdcannon> el comando que te mande creo que las cordenas estan incorredctas
+[03:08:39] [Server thread/INFO]: <xdcannon> el comando que te mande creo que las cordenas estan incorredctas
+[03:08:52] [Server thread/INFO]: <xdcannon> el comando que te mande creo que las cordenas estan incorredctas
+[03:08:52] [Server thread/INFO]: <xdcannon> el comando que te mande creo que las cordenas estan incorredctas
+[03:08:52] [Server thread/INFO]: <xdcannon> el comando que te mande creo que las cordenas estan incorredctas
+[03:08:53] [Server thread/INFO]: <xdcannon> el comando que te mande creo que las cordenas estan incorredctas
+[03:08:53] [Server thread/INFO]: <xdcannon> el comando que te mande creo que las cordenas estan incorredctas
+[03:08:54] [Server thread/INFO]: <xdcannon> el comando que te mande creo que las cordenas estan incorredctas
+[03:08:57] [Server thread/INFO]: <xdcannon> el comando que te mande creo que las cordenas estan incorredctas
+[03:08:57] [Server thread/INFO]: <ToBiik_> pq?
+[03:08:58] [Server thread/INFO]: <xdcannon> el comando que te mande creo que las cordenas estan incorredctas
+[03:08:58] [Server thread/INFO]: <xdcannon> el comando que te mande creo que las cordenas estan incorredctas
+[03:08:58] [Server thread/INFO]: <xdcannon> el comando que te mande creo que las cordenas estan incorredctas
+[03:09:03] [Server thread/INFO]: <xdcannon> el comando que te mande creo que las cordenas estan incorredctas
+[03:09:20] [Server thread/INFO]: ToBiik_______ was slain by xdcannon
+[03:09:25] [Server thread/INFO]: <xdcannon> jodeeer
+[03:09:27] [Server thread/INFO]: Letrootas[/127.143.175.50:40431] logged in with entity id 65 at (-9.81868521058481, 31.80324623414939, -17.31969597115723)
+[03:09:27] [Server thread/INFO]: Letrootas joined the game
+[03:09:37] [Server thread/INFO]: <Letrootas> y esta mrd?
+[03:09:44] [Server thread/INFO]: ToBiik_ fell out of the world
+[03:09:44] [Server thread/INFO]: ToBiik_______ fell out of the world
+[03:09:44] [Server thread/INFO]: xdcannon fell out of the world
+[03:09:44] [Server thread/INFO]: Letrootas fell out of the world
+[03:10:09] [Server thread/INFO]: <xdcannon> apareci aca v
+[03:10:15] [Server thread/INFO]: <ToBiik_> no deja colocar el spawn aqui
+[03:10:26] [Server thread/INFO]: <xdcannon> en el boque de aca sali loco
+[03:10:32] [Server thread/INFO]: <ToBiik_> no deja colocar
+[03:10:57] [Server thread/INFO]: <ToBiik_______> q haces tarao
+[03:11:05] [Server thread/INFO]: xdcannon fell out of the world
+[03:11:12] [Server thread/INFO]: <ToBiik_> letras
+[03:11:14] [Server thread/INFO]: <xdcannon> donde salieron xD
+[03:11:15] [Server thread/INFO]: Letrootas fell out of the world
+[03:11:17] [Server thread/INFO]: <ToBiik_> configura el server aqui
+[03:11:21] [Server thread/INFO]: <ToBiik_> el spawn
+[03:11:24] [Server thread/INFO]: <Letrootas> calla mrd
+[03:11:27] [Server thread/INFO]: xdcannon fell out of the world
+[03:11:27] [Server thread/INFO]: ToBiik_ fell out of the world
+[03:11:27] [Server thread/INFO]: Letrootas fell out of the world
+[03:11:27] [Server thread/INFO]: ToBiik_______ fell out of the world
+[03:11:44] [Server thread/INFO]: <ToBiik_> q haces?
+[03:11:52] [Server thread/INFO]: <Letrootas> y eso?
+[03:11:57] [Server thread/INFO]: <ToBiik_> habla ps si vas a ayudar
+[03:12:04] [Server thread/INFO]: <ToBiik_> es para hacer el spawn
+[03:12:10] [Server thread/INFO]: <Letrootas> yo solo veo
+[03:12:20] [Server thread/INFO]: Letrootas lost connection: TextComponent{text='Kicked by an operator.', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:12:20] [Server thread/INFO]: Letrootas left the game
+[03:13:20] [Server thread/INFO]: ToBiik_______ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:13:20] [Server thread/INFO]: ToBiik_______ left the game
+[03:13:29] [Server thread/INFO]: <xdcannon> ya esta joder
+[03:13:30] [Server thread/INFO]: <xdcannon> ya esta joder
+[03:13:31] [Server thread/INFO]: <xdcannon> ya esta joder
+[03:13:31] [Server thread/INFO]: <xdcannon> ya esta joder
+[03:13:31] [Server thread/INFO]: <xdcannon> ya esta joder
+[03:13:32] [Server thread/INFO]: <xdcannon> ya esta joder
+[03:13:32] [Server thread/INFO]: <xdcannon> ya esta joder
+[03:13:36] [Server thread/INFO]: <xdcannon> ya esta joder
+[03:13:37] [Server thread/INFO]: <xdcannon> ya esta joder
+[03:13:37] [Server thread/INFO]: <xdcannon> ya esta joder
+[03:13:38] [Server thread/INFO]: <xdcannon> ya esta joder
+[03:13:38] [Server thread/INFO]: <xdcannon> ya esta joder
+[03:13:44] [Server thread/INFO]: xdcannon fell out of the world
+[03:13:44] [Server thread/INFO]: ToBiik_ fell out of the world
+[03:13:55] [Server thread/INFO]: <xdcannon> reaparece oe
+[03:14:06] [Server thread/INFO]: <xdcannon> joya
+[03:14:08] [Server thread/INFO]: <ToBiik_> deja entro con otra cuenta
+[03:14:11] [Server thread/INFO]: <ToBiik_> NUEVA
+[03:14:13] [Server thread/INFO]: <xdcannon> aver mete una cuenta random,
+[03:14:13] [Server thread/INFO]: <xdcannon> aver mete una cuenta random,
+[03:14:14] [Server thread/INFO]: <xdcannon> aver mete una cuenta random,
+[03:14:14] [Server thread/INFO]: <xdcannon> aver mete una cuenta random,
+[03:14:15] [Server thread/INFO]: <xdcannon> aver mete una cuenta random,
+[03:14:17] [Server thread/INFO]: <xdcannon> aver mete una cuenta random,
+[03:15:18] [Server thread/INFO]: ToBiik_______0[/127.135.168.66:49337] logged in with entity id 89 at (32.5, 24.0, -49.5)
+[03:15:18] [Server thread/INFO]: ToBiik_______0 joined the game
+[03:15:22] [Server thread/INFO]: <ToBiik_______0> a
+[03:15:38] [Server thread/INFO]: <ToBiik_> a
+[03:16:16] [Server thread/INFO]: xdcannon fell out of the world
+[03:16:16] [Server thread/INFO]: ToBiik_ fell out of the world
+[03:16:16] [Server thread/INFO]: ToBiik_______0 fell out of the world
+[03:16:16] [Server thread/INFO]: ToBiik_______0 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:16:16] [Server thread/INFO]: ToBiik_______0 left the game
+[03:16:37] [Server thread/INFO]: ToBiik_______000[/127.135.168.66:33719] logged in with entity id 93 at (32.5, 24.0, -49.5)
+[03:16:37] [Server thread/INFO]: ToBiik_______000 joined the game
+[03:16:46] [Server thread/INFO]: xdcannon fell out of the world
+[03:16:46] [Server thread/INFO]: ToBiik_______000 fell out of the world
+[03:16:46] [Server thread/INFO]: ToBiik_ fell out of the world
+[03:17:03] [Server thread/INFO]: <xdcannon> lptmr loco el spawn esta random
+[03:17:03] [Server thread/INFO]: <xdcannon> lptmr loco el spawn esta random
+[03:17:04] [Server thread/INFO]: <xdcannon> lptmr loco el spawn esta random
+[03:17:04] [Server thread/INFO]: <xdcannon> lptmr loco el spawn esta random
+[03:17:05] [Server thread/INFO]: <xdcannon> lptmr loco el spawn esta random
+[03:17:10] [Server thread/INFO]: <ToBiik_> si mano
+[03:17:13] [Server thread/INFO]: <ToBiik_> antes no era asi
+[03:17:16] [Server thread/INFO]: <ToBiik_> no se q pasó
+[03:17:21] [Server thread/INFO]: <xdcannon> segun chat gpt es aleatorio en un radio de 5 bloques
+[03:17:21] [Server thread/INFO]: <xdcannon> segun chat gpt es aleatorio en un radio de 5 bloques
+[03:17:22] [Server thread/INFO]: <xdcannon> segun chat gpt es aleatorio en un radio de 5 bloques
+[03:17:28] [Server thread/INFO]: <xdcannon> delspawn establecido
+[03:17:42] [Server thread/INFO]: <ToBiik_> pero de ahi esta kgado ps
+[03:17:56] [Server thread/INFO]: <xdcannon> ahi si valiendo madres loco
+[03:19:32] [Server thread/INFO]: <xdcannon> quiero hacer un coso con un bloque de comandos loco me permites??
+[03:19:37] [Server thread/INFO]: <xdcannon> quiero hacer un coso con un bloque de comandos loco me permites??
+[03:19:37] [Server thread/INFO]: <xdcannon> quiero hacer un coso con un bloque de comandos loco me permites??
+[03:19:38] [Server thread/INFO]: <xdcannon> quiero hacer un coso con un bloque de comandos loco me permites??
+[03:19:52] [Server thread/INFO]: <ToBiik_> no
+[03:19:57] [Server thread/INFO]: <xdcannon> cagon
+[03:20:01] [Server thread/INFO]: <xdcannon> igual y lo voy a hacer
+[03:20:19] [Server thread/INFO]: ToBiik_ fell out of the world
+[03:20:26] [Server thread/INFO]: ToBiik_ fell out of the world
+[03:20:26] [Server thread/INFO]: xdcannon fell out of the world
+[03:20:26] [Server thread/INFO]: ToBiik_______000 fell out of the world
+[03:20:32] [Server thread/INFO]: <xdcannon> joder
+[03:20:39] [Server thread/INFO]: ToBiik_______000 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:20:39] [Server thread/INFO]: ToBiik_______000 left the game
+[03:20:43] [Server thread/INFO]: <xdcannon> sirvio?
+[03:20:52] [Server thread/INFO]: <ToBiik_> mano
+[03:20:57] [Server thread/INFO]: <ToBiik_> parece q ya
+[03:21:00] [Server thread/INFO]: <ToBiik_> parece q ya está
+[03:21:19] [Server thread/INFO]: <ToBiik_> no uses comandos loco
+[03:21:27] [Server thread/INFO]: ToBiik___099[/127.135.168.66:42979] logged in with entity id 107 at (32.5, 4.0, -48.5)
+[03:21:27] [Server thread/INFO]: ToBiik___099 joined the game
+[03:21:33] [Server thread/INFO]: <xdcannon> wbon es para algo piola
+[03:21:35] [Server thread/INFO]: <ToBiik___099> mira donde vine
+[03:21:41] [Server thread/INFO]: <xdcannon> para que el server quede mas bacano
+[03:21:55] [Server thread/INFO]: ToBiik___099 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:21:55] [Server thread/INFO]: ToBiik___099 left the game
+[03:23:27] [Server thread/INFO]: ToBiik_99[/127.135.168.66:45887] logged in with entity id 108 at (33.5, 4.0, -48.5)
+[03:23:27] [Server thread/INFO]: ToBiik_99 joined the game
+[03:23:34] [Server thread/INFO]: ToBiik_99 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:23:34] [Server thread/INFO]: ToBiik_99 left the game
+[03:26:37] [Server thread/INFO]: <xdcannon> estoy
+[03:26:38] [Server thread/INFO]: <xdcannon> estoy
+[03:26:38] [Server thread/INFO]: <xdcannon> estoy
+[03:26:39] [Server thread/INFO]: <xdcannon> estoy
+[03:26:39] [Server thread/INFO]: <xdcannon> estoy
+[03:26:53] [Server thread/INFO]: ToBiik_9999[/127.135.168.66:34381] logged in with entity id 109 at (32.5, 24.0, -49.5)
+[03:26:53] [Server thread/INFO]: ToBiik_9999 joined the game
+[03:27:34] [Server thread/INFO]: ToBiik_9999 fell from a high place
+[03:28:07] [Server thread/INFO]: <xdcannon> pero activa los bloquyes mrddd
+[03:28:07] [Server thread/INFO]: <xdcannon> pero activa los bloquyes mrddd
+[03:28:08] [Server thread/INFO]: <xdcannon> pero activa los bloquyes mrddd
+[03:28:08] [Server thread/INFO]: <xdcannon> pero activa los bloquyes mrddd
+[03:28:08] [Server thread/INFO]: <xdcannon> pero activa los bloquyes mrddd
+[03:28:18] [Server thread/INFO]: <xdcannon> no estan activos
+[03:28:29] [Server thread/INFO]: Stopping the server
+[03:28:29] [Server thread/INFO]: Stopping server
+[03:28:29] [Server thread/INFO]: Saving players
+[03:28:29] [Server thread/INFO]: ToBiik_ lost connection: TextComponent{text='Server closed', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:28:29] [Server thread/INFO]: ToBiik_ left the game
+[03:28:29] [Server thread/INFO]: Saving worlds
+[03:28:29] [Server thread/INFO]: Saving chunks for level 'torneo'/Overworld
+[03:28:29] [Server thread/INFO]: Saving chunks for level 'torneo'/Nether
+[03:28:29] [Server thread/INFO]: Saving chunks for level 'torneo'/The End
