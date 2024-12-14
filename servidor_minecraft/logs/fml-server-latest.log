@@ -399,3 +399,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [00:50:59] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
 [00:51:44] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
 [00:52:29] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[00:53:14] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[00:53:59] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[00:54:44] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[00:55:29] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[00:56:14] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[00:56:59] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[00:57:33] [Netty Server IO #0/TRACE] [FML/]: Handshake channel activating
+[00:57:33] [Netty Server IO #0/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:57:33] [Server thread/INFO] [FML/]: Connection received without FML marker, assuming vanilla.
+[00:57:33] [Netty Server IO #0/DEBUG] [FML/]:   Next: HELLO
+[00:57:33] [Server thread/INFO] [FML/]: [Server thread] Server side vanilla connection established
+[00:57:44] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[00:58:29] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[00:59:14] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[00:59:59] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[01:00:44] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[01:01:29] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[01:02:14] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
