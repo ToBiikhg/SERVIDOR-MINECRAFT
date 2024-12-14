@@ -537,3 +537,35 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02:30:44] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
 [02:31:29] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
 [02:32:14] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[02:32:59] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[02:33:44] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[02:34:29] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[02:35:14] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[02:35:14] [Netty Server IO #3/TRACE] [FML/]: Handshake channel activating
+[02:35:14] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[02:35:14] [Netty Server IO #3/DEBUG] [FML/]:   Next: HELLO
+[02:35:14] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:35:14] [Netty Server IO #3/INFO] [FML/]: Client protocol version 2
+[02:35:14] [Netty Server IO #3/DEBUG] [FML/]:   Next: HELLO
+[02:35:14] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:5 mods->FMLHandshakeServerState$2:HELLO
+[02:35:14] [Netty Server IO #3/INFO] [FML/]: Client attempting to join with 5 mods : tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,worldedit@6.1,Forge@11.14.4.1577,mcp@9.05
+[02:35:14] [Netty Server IO #3/DEBUG] [FML/]:   Next: WAITINGCACK
+[02:35:14] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[02:35:14] [Netty Server IO #3/DEBUG] [FML/]:   Next: COMPLETE
+[02:35:15] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[02:35:15] [Netty Server IO #3/DEBUG] [FML/]:   Next: DONE
+[02:35:15] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[02:35:15] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[02:35:15] [Netty Server IO #3/DEBUG] [FML/]:   Next: DONE
+[02:35:15] [Netty Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[02:35:15] [Netty Server IO #3/DEBUG] [FML/]:   Next: DONE
+[02:35:59] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[02:36:44] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[02:37:29] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[02:38:14] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[02:38:59] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[02:39:44] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[02:40:29] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[02:41:14] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[02:41:59] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
+[02:42:44] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save torneo
