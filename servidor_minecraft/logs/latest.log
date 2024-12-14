@@ -1,18 +1,3 @@
-[23:42:37] [Server thread/INFO]: Starting minecraft server version 1.8
-[23:42:40] [Server thread/INFO]: Loading properties
-[23:42:40] [Server thread/INFO]: Default game type: SURVIVAL
-[23:42:40] [Server thread/INFO]: Generating keypair
-[23:42:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:42:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:42:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:42:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:42:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:42:42] [Server thread/INFO]: Preparing level "torneo"
-[23:42:42] [Server thread/INFO]: Preparing start region for level 0
-[23:42:43] [Server thread/INFO]: Done (2.283s)! For help, type "help" or "?"
-[23:42:59] [Server thread/INFO]: ToBiik_[/127.135.168.66:52067] logged in with entity id 0 at (35.5025269097365, 25.042076926461686, -29.77227850802223)
-[23:42:59] [Server thread/INFO]: ToBiik_ joined the game
-[23:43:12] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[23:43:18] [Server thread/INFO]: [ToBiik_: Changing to clear weather]
-[23:56:26] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
-[23:56:31] [Server thread/INFO]: [ToBiik_: Changing to clear weather]
+[00:11:40] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
+[00:11:48] [Server thread/INFO]: [ToBiik_: Changing to clear weather]
+[00:11:51] [Server thread/INFO]: [ToBiik_: Set the time to 1000]
