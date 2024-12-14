@@ -1,9 +1,25 @@
 [
   {
-    "uuid": "eb477031-1347-30e7-a50b-b8c67e145369",
-    "name": "xdcannon",
-    "created": "2024-12-14 04:05:28 +0000",
+    "uuid": "8b2bcbac-db35-3d52-8832-2b7ed3f2801f",
+    "name": "@a[gamemode\u003d3]",
+    "created": "2024-12-14 04:16:59 +0000",
     "source": "ToBiik_",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "2a1dbdad-4c67-3be9-94f7-29e916d930b4",
+    "name": "@a",
+    "created": "2024-12-14 04:16:10 +0000",
+    "source": "ToBiik_",
+    "expires": "forever",
+    "reason": "gamemode 3"
+  },
+  {
+    "uuid": "12a5f179-d6bc-32c8-aaf8-c4dce87d60c4",
+    "name": "ToBiik_",
+    "created": "2024-12-14 04:17:19 +0000",
+    "source": "xdcannon",
     "expires": "forever",
     "reason": "Banned by an operator."
   }
